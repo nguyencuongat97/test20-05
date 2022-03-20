@@ -9,3 +9,6 @@ a: 1
 b: 2,
 }
 nguye manh cuong code cap nhat A
+
+
+code function A
