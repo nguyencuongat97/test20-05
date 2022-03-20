@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="88ae1984-3fc6-4003-8201-edf8d99ce3b9" name="Changes" comment="" />
+    <list default="true" id="88ae1984-3fc6-4003-8201-edf8d99ce3b9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/kaka.txt" beforeDir="false" afterPath="$PROJECT_DIR$/kaka.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647771774835</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="commit A">
+      <created>1647771963144</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1647771963144</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
