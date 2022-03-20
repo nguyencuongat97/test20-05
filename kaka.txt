@@ -4,3 +4,8 @@
 nguyen van long tao function cap nhat
 nguyen manh cuong làm function tao moi !
 commit lan 1
+{
+a: 1
+b: 2,
+}
+nguye manh cuong code cap nhat A
